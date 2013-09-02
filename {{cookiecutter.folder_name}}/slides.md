@@ -1,5 +1,5 @@
 % {{cookiecutter.title}}
-% {{cookiecutter.full_name}
+% {{cookiecutter.full_name}}
 % {{cookiecutter.date}}
 
 ---
