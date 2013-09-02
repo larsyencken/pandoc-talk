@@ -19,8 +19,9 @@ Using this template
     $ pip install cookiecutter
     $ cookiecutter https://github.com/larsyencken/pandoc-talk.git
 
-You will be asked about your basic info (name, title, etc.). This info will be used in your new talk.
+You will be asked about your basic info (name, title, etc.). This info will be used in your new talk. Once you've made your template, you can build your talk with::
 
+    $ make
 
 License
 -------
