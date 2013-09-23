@@ -1,6 +1,7 @@
 % {{cookiecutter.title}}
 % {{cookiecutter.full_name}}
-% {{cookiecutter.date}}
+% {{cookiecutter.venue}}\
+  \vspace{0.5cm}{{cookiecutter.date}}
 
 ---
 
